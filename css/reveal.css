@@ -253,6 +253,7 @@ body {
 	}
 	.reveal blockquote:after {
 		content: '\201D';
+		/*content:'\201D' attr(cite);*/
 	}
 
 .reveal q {
