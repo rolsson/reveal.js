@@ -56,6 +56,12 @@ body, p, td, li, div {
 h1,h2,h3,h4,h5,h6 {
 	text-shadow: 0 0 0 #000 !important;
 }
+h1 { font-size: 40pt !important; }
+h2 { font-size: 36pt !important; }
+h3 { font-size: 38pt !important; }
+h4 { font-size: 20pt !important; font-variant: small-caps; }
+h5 { font-size: 19pt !important; }
+h6 { font-size: 18pt !important; font-style: italic; }
 
 /* SECTION 5: Make hyperlinks more usable.
    Ensure links are underlined, and consider appending
